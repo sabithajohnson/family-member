@@ -1,1 +1,1 @@
-console.log("My MOTHER ALWAYS SUPPORT ME");
+console.log("My mother is always support me");
