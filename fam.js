@@ -1,0 +1,1 @@
+console.log("I Have completed my BSC in SKCW");
